@@ -1,3 +1,4 @@
 data
 *.log
 new_model*
+__pycache__
